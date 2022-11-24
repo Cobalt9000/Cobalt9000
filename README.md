@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suprith Shettigar</h1>
 <h3 align="center">A Student who likes coding small stuffs and creating websites for fun :)</h3>
 
-<img align="right" alt="gif" width="400" scr="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="gif" width="400" scr="![image](https://user-images.githubusercontent.com/110296623/203812171-a4819aaa-5ed7-454d-bd3c-8787bfcde993.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobalt9000&label=Profile%20views&color=0e75b6&style=flat" alt="cobalt9000" /> </p>
 
