@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suprith Shettigar</h1>
 <h3 align="center">A Student who likes coding small stuffs and creating websites for fun :)</h3>
 
-<img align="right" alt="gif" width="400" scr="![image](https://user-images.githubusercontent.com/110296623/203812171-a4819aaa-5ed7-454d-bd3c-8787bfcde993.png)
-">
+<img align="right" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200w.gif?cid=6c09b952qv6w2wtrqoha897ch48zuz8o7my6pfs1rnf1ui77&rid=200w.gif&ct=g" alt="coding gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobalt9000&label=Profile%20views&color=0e75b6&style=flat" alt="cobalt9000" /> </p>
 
@@ -20,8 +19,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cobalt9000&show_icons=true&locale=en&layout=compact" alt="cobalt9000" /></p>
+<p>
+  
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cobalt9000&show_icons=true&locale=en&layout=compact" alt="cobalt9000" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cobalt9000&show_icons=true&locale=en" alt="cobalt9000" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobalt9000&" alt="cobalt9000" /></p>
+<p>&nbsp;
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cobalt9000&show_icons=true&locale=en" alt="cobalt9000" />
+
+</p>
+
+<p>
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobalt9000&" alt="cobalt9000" />
+
+</p>
