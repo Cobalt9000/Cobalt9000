@@ -19,7 +19,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
 
-![Cobalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobalt9000&show_icons=true&theme=radical)
+![Cobalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobalt9000&show_icons=true&theme=radical &hide=stars,prs,issues &count_private=true)
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cobalt9000&show_icons=true&theme=radical" alt="cobalt9000" /></p>
 
