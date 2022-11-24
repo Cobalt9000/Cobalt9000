@@ -21,7 +21,7 @@
 
 ![Cobalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobalt9000&show_icons=true&theme=radical&hide=contribs,prs,issues&count_private=true)
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cobalt9000&show_icons=true&theme=radical&count_private=true" alt="cobalt9000" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cobalt9000&show_icons=true&theme=radical&count_private=true" alt="cobalt9000"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cobalt9000&show_icons=true&theme=radical&count_private=true" alt="cobalt9000"</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cobalt9000&show_icons=true&theme=radical&count_private=true" alt="cobalt9000"/></p>
   
