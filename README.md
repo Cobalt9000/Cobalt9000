@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobalt9000&label=Profile%20views&color=0e75b6&style=flat" alt="cobalt9000" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coblt121" target="blank"><img src="https://img.shields.io/twitter/follow/coblt121?logo=twitter&style=for-the-badge" alt="coblt121" /></a> </p>
-
 - 📫 How to reach me (you can contact me through this email.) **suprith1201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
