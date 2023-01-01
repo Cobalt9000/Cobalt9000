@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/coblt121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coblt121" height="30" width="40" /></a>
+<a href="https://twitter.com/coblt121" target="blank"><img align="center" src="https://i.pinimg.com/originals/43/30/3f/43303f3351efb9b7f41ff2cd9cc7dc80.jpg" alt="coblt121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suprith shettigar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suprith shettigar" height="30" width="40" /></a>
 <a href="https://discord.gg/ScreaM12#5176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ScreaM12#5176" height="30" width="40" /></a>
 </p>
