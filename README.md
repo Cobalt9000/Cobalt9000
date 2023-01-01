@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/coblt121" target="blank"><img align="center" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/10/Twitter-logo-png.png?resize=600%2C494&ssl=1" alt="coblt121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suprith shettigar" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="suprith shettigar" height="30" width="40" /></a>
-<a href="https://discord.gg/ScreaM12#5176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ScreaM12#5176" height="30" width="40" /></a>
+<a href="https://discord.gg/ScreaM12#5176" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="ScreaM12#5176" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
